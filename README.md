@@ -7,17 +7,25 @@ This project is a Python-based Shopping Cart Billing System that allows users to
 
 Features :-
 
-✔ Login system
+1. Login system
 
-✔ 30-item product database (price + stock)
-✔ Add items to cart
-✔ Remove items from cart
-✔ Stock validation
-✔ Coupon system (SAVE10 → 10% OFF)
-✔ Automatic bill calculation
-✔ Frequency table at checkout
-✔ Receipt generation (receipt.txt)
-✔ Random order ID and delivery date
+2. 30-item product database (price + stock)
+
+3. Add items to cart
+
+4. Remove items from cart
+
+5. Stock validation
+
+6. Coupon system (SAVE10 → 10% OFF)
+
+7. Automatic bill calculation
+
+8. Frequency table at checkout
+
+9. Receipt generation (receipt.txt)
+
+10. Random order ID and delivery date
 
 --------
 
