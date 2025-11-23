@@ -48,9 +48,9 @@ collections.Counter	Frequency table
 
 🏗 Main Functionalities
 
-🔹 login()
-Prompts username and starts session.
-🔹 display_items()
+login()
+, Prompts username and starts session.
+, display_items()
 Shows all 30 products with price and available stock.
 , add_to_cart()
 1. Validates product
