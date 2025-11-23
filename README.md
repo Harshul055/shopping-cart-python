@@ -78,7 +78,7 @@ Final amount
 Delivery date
 
 
-📄 Receipt Output Example
+📄 Receipt Output
 
 After checkout, a receipt file is saved as:
 receipt.txt
