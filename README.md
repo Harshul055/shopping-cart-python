@@ -8,6 +8,7 @@ This project is a Python-based Shopping Cart Billing System that allows users to
 Features :-
 
 ✔ Login system
+
 ✔ 30-item product database (price + stock)
 ✔ Add items to cart
 ✔ Remove items from cart
