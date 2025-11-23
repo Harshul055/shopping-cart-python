@@ -1,11 +1,11 @@
 🛒 Shopping Cart Billing System – Python Project
 
-📌 Overview
+ Overview :- 
 
 This project is a Python-based Shopping Cart Billing System that allows users to select items, manage a cart, apply discounts, and generate a receipt. It simulates a real supermarket billing experience through a command-line interface (CLI).
 
 
-Features
+Features :-
 
 ✔ Login system
 ✔ 30-item product database (price + stock)
