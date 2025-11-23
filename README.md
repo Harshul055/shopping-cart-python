@@ -52,24 +52,24 @@ collections.Counter	Frequency table
 Prompts username and starts session.
 🔹 display_items()
 Shows all 30 products with price and available stock.
-🔹 add_to_cart()
+, add_to_cart()
 1. Validates product
 2. Validates quantity
 3. Deducts stock
 4. Adds selected quantity to cart
-🔹 remove_from_cart()
+, remove_from_cart()
 1. Shows current cart
 2. Removes chosen quantity
 3. Restores stock
-🔹 apply_coupon()
+, apply_coupon()
 Applies 10% discount if code is SAVE10.
-🔹 checkout()
+, checkout()
 1. Creates frequency table
 2. Computes bill
 3. Generates order ID
 4. Estimates delivery date
 5. Saves receipt
-🔹 save_receipt()
+, save_receipt()
 Generates receipt.txt with:
 Customer name
 Order ID
