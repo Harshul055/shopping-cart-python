@@ -4,6 +4,7 @@
 
 This project is a Python-based Shopping Cart Billing System that allows users to select items, manage a cart, apply discounts, and generate a receipt. It simulates a real supermarket billing experience through a command-line interface (CLI).
 
+------------
 
 Features :-
 
@@ -39,6 +40,7 @@ No external libraries required (uses built-in modules)
 Open terminal / command prompt and run:
 python main.py
 
+---------
 
 🧩 Code Details
 
@@ -48,6 +50,7 @@ random	Generate order ID & delivery date
 datetime	Calculate delivery date
 collections.Counter	Frequency table
 
+--------------
 
 🏗 Main Functionalities
 
@@ -80,6 +83,7 @@ Item list
 Final amount
 Delivery date
 
+-------------
 
 📄 Receipt Output
 
@@ -87,7 +91,10 @@ After checkout, a receipt file is saved as:
 receipt.txt
 Containing order details, price breakup, and delivery information.
 
+--------------------
 
 📝 Author
 
 This project was developed as part of a Python programming focusing on data structures, user interaction, and file handling.
+
+------------
