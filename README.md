@@ -75,12 +75,19 @@ Applies 10% discount if code is SAVE10.
 3. Generates order ID
 4. Estimates delivery date
 5. Saves receipt
-a) save_receipt()
-b) enerates receipt.txt with:
+ 
+a)save_receipt()
+
+b) Generates receipt.txt with
+
 c) Customer name
+
 d) Order ID
+
 e) Item list
+
 f) Final amount
+
 g) Delivery date
 
 -------------
